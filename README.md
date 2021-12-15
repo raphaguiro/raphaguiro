@@ -3,7 +3,7 @@
 Aprender sobre sistemas e softwares.
 
 - 🌱 I’m currently learning:
-Programção.
+Progra mção
 
 - 💞️ I’m looking to collaborate on:
 Desenvolvimento de sistemas 
